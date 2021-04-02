@@ -1,1 +1,1 @@
-# openshiftdemocode
+# openshiftdemocode(okd)
